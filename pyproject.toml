@@ -8,5 +8,6 @@ dependencies = [
     "crewai>=1.14.6",
     "crewai-tools>=1.14.6",
     "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
     "python-dotenv>=1.2.2",
 ]
